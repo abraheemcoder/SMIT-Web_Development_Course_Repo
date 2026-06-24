@@ -1,2 +1,2 @@
-# SMIT-Web_Development_Course
-My Web Development Course.
+# My Smit Web Development course is here.
+
